@@ -9,7 +9,8 @@ Copy **SoraDataEx.ini** to `<Game Root Folder>/voice/`.
 ## By now, supported games
 |Game Title                 |Publisher|Platform|DX|Update Date
 |---------------------------|---------|--------|--|-----------
-|*Trails in the Sky FC*     |Xseed    |Steam   |8 |20170808   
+|*Trails in the Sky FC*     |Xseed    |Steam   |8 |20170626   
+|                           |         |        |  |20170808   
 |                           |         |        |  |20170810   
 |                           |         |        |9 |20170808   
 |                           |         |        |  |20170810   
