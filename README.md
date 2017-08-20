@@ -10,10 +10,8 @@ Copy **SoraDataEx.ini** to `<Game Root>/voice/`.
 |Game Title                 |Publisher|Platform|DX|Timestamp|CRC32
 |---------------------------|---------|--------|--|---------|--------
 |*Trails in the Sky FC*     |Xseed    |Steam   |8 |20170505 |C5E5289E
-|                           |         |        |  |20170817 |4F1D9AEA
-|                           |         |        |  |20170819 |8B28A04E
-|                           |         |        |9 |20170817 |FEFFF48C
-|                           |         |        |  |20170819 |B504F9B3
+|                           |         |        |  |20170819 |3BF28D8E
+|                           |         |        |9 |20170819 |D5DBCCBC
 
 **NOTE**: Voice scripts for these games are still needed.   
 
