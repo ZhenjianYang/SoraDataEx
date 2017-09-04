@@ -7,11 +7,13 @@ The latest file is [SoraVoiceEx.ini](https://github.com/ZhenjianYang/SoraDataEx/
 Copy **SoraDataEx.ini** to `<Game Root>/voice/`.   
 
 ## By now, supported games
-|Game Title                 |Publisher|Platform|DX|Timestamp|CRC32
-|---------------------------|---------|--------|--|---------|--------
-|*Trails in the Sky FC*     |Xseed    |Steam   |8 |20170505 |C5E5289E
-|                           |         |        |  |20170819 |3BF28D8E
-|                           |         |        |9 |20170819 |D5DBCCBC
+|Game Title                 |Publisher|Platform        |DX|Timestamp|CRC32 of EXE
+|---------------------------|---------|----------------|--|---------|--------
+|*Trails in the Sky FC*     |Xseed    |Steam           |8 |20170505 |C5E5289E
+|*Trails in the Sky FC*     |Xseed    |Steam/GOG/Humble|8 |20170819 |3BF28D8E
+|                           |         |                |  |20170828 |3DA246CF
+|                           |         |                |9 |20170819 |D5DBCCBC
+|                           |         |                |  |20170828 |65CF4451
 
 **NOTE**: Voice scripts for these games are still needed.   
 
