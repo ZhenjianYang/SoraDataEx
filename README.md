@@ -15,7 +15,8 @@ Copy **SoraDataEx.ini** to `<Game Root>/voice/`.
 |                           |         |                |9 |20170819 |D5DBCCBC
 |                           |         |                |  |20170828 |65CF4451
 
-**NOTE**: Voice scripts for these games are still needed.   
+[SoraVoiceScripts](https://github.com/ZhenjianYang/SoraVoiceScripts) is project of Voice Scripts for
+*Sora no Kiseki* / *Trails in the Sky* series.
 
 ### About the Timestamp   
 The timestamp is the timestamp storded in the exe file's PE header.   
