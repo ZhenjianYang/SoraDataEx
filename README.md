@@ -19,7 +19,7 @@ Copy **SoraDataEx.ini** to `<Game Root>/voice/`.
 *Sora no Kiseki* / *Trails in the Sky* series.
 
 ### About the Timestamp   
-The timestamp is the timestamp storded in the exe file's PE header.   
+The timestamp is the timestamp stored in the exe file's PE header.   
 There are many tools can check it.    
 **e.g.** Drag **ed6_win.exe** to [EXE Explorer](http://www.mitec.cz/exe.html),
 then the timestamp can be found at **Header** -> **File** -> **Timestamp**.   
