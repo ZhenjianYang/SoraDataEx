@@ -14,6 +14,8 @@ Copy **SoraDataEx.ini** to `<Game Root>/voice/`.
 |                           |         |                |  |20170828 |3DA246CF
 |                           |         |                |9 |20170819 |D5DBCCBC
 |                           |         |                |  |20170828 |65CF4451
+|*Trails in the Sky SC*     |Xseed    |Steam/GOG/Humble|8 |20170828 |C72E52C9
+|                           |         |                |9 |20170828 |2B24CA49
 
 [SoraVoiceScripts](https://github.com/ZhenjianYang/SoraVoiceScripts) is project of Voice Scripts for
 *Sora no Kiseki* / *Trails in the Sky* series.
