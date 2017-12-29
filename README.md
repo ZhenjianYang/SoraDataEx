@@ -1,12 +1,6 @@
-# SoraDataEx
-**SoraDataEx.ini** for the voice patch project [SoraVoice](https://github.com/ZhenjianYang/SoraVoice), which can add support for *Trails in the Sky* series published by Xseed.     
+**SoraDataEx.ini** is no longer needed by the voice patch project [SoraVoice](https://github.com/ZhenjianYang/SoraVoice).   
+Just get the latest [release](https://github.com/ZhenjianYang/SoraVoice/releases/latest) of SoraVoice, these games are supported:   
 
-The latest file is [SoraVoiceEx.ini](https://github.com/ZhenjianYang/SoraDataEx/blob/master/SoraDataEx/SoraDataEx.ini).
-
-## Usage
-Copy **SoraDataEx.ini** to `<Game Root>/voice/`.   
-
-## By now, supported games
 |Game Title                 |Publisher|Platform        |DX|Timestamp|CRC32 of EXE
 |---------------------------|---------|----------------|--|---------|--------
 |*Trails in the Sky FC*     |Xseed    |Steam           |8 |20170505 |C5E5289E
@@ -14,6 +8,8 @@ Copy **SoraDataEx.ini** to `<Game Root>/voice/`.
 |                           |         |                |9 |20170828 |65CF4451
 |*Trails in the Sky SC*     |Xseed    |Steam/GOG/Humble|8 |20170828 |C72E52C9
 |                           |         |                |9 |20170828 |2B24CA49
+|*Trails in the Sky the 3rd*|Xseed    |Steam/GOG/Humble|8 |20170828 |ABAF0ED4
+|                           |         |                |9 |20170828 |4B889F8B
 
 **NOTE**: Steam/GOG/Humble versions with latest update are supported.
 
